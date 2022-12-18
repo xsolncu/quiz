@@ -1,0 +1,21 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: none;
+
+  text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+
+  font-family: Rubik, sans-serif;
+  font-weight: 400;
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+}
